@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reminder</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_completed">Mark as done</string>
+    <string name="reset">Reset tasks</string>
+</resources>
