@@ -1,4 +1,4 @@
-# RecyclerViewHomeWork
+#HomeWorkRecyclerView
 
 When you press the plus key "+", you can create a reminder
 
